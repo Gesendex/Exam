@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Web\exam\.idea\modules.xml" />
+    <Content Include="Web\exam\.idea\workspace.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Web\exam\.idea\.gitignore" />
+    <None Include="Web\exam\.idea\.name" />
+    <None Include="Web\exam\.idea\exam.iml" />
+  </ItemGroup>
+
+</Project>
